@@ -14,3 +14,6 @@ Please be aware that:
   -you will also need python to run the code.
   
 Thank you
+
+There is also additional script which will compare files created by the backup script, and will find all videos that have been removed from your playlists (either by you or by other people)
+The additional script also tries (in a very basic way) to check if removed video has been added again to the playlist
