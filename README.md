@@ -15,5 +15,8 @@ Please be aware that:
   
 Thank you
 
-There is also additional script which will compare files created by the backup script, and will find all videos that have been removed from your playlists (either by you or by other people)
+There is also additional script which will compare files created by the backup script, and will find all videos that have been removed from your playlists (either by you or by other people).
+
 The additional script also tries (in a very basic way) to check if removed video has been added again to the playlist
+
+To use the script place it in the folder with all the generated files and run it. The results will appear in res.txt file. If the file exists it content will be deleted without hesitation
